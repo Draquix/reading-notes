@@ -2,7 +2,7 @@
 Intro to coding and software development.
 
 
-##The Growth Mindset:
+## The Growth Mindset:
 
 -The growth mindset refers to a state of mind which cultivates a willingness to grow through challenges and adversity, and by personal achievements in overcoming obstacles leads to a person who is always becoming a better version of who they are or once were.
 
