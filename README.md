@@ -11,6 +11,3 @@ Intro to coding and software development.
 - A growth mindset is essential to being a successful software developer, as one must be willing to deal with errors or problems as challenges to be overcome, not walls to impede all further progress, and at times one must be able to innovate new ways of doing things,
 
 - I will make it a personal priority to keep a growth mindset as it will help me with a career in coding, and also lead to being a better person in general. 
-
-## URL to page is:
-https://draquix.github.io/reading-notes-javascript-102/
