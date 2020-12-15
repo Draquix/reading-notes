@@ -5,6 +5,7 @@
 * [The Growth Mindset](/GrowthMindset.md)
 * [Markdown in a Nutshell](/MarkdownPage.md)
 * [Reading Lab 03 Notes](/Read03.md)
+* [Reading Lab 04 Notes](/Read04.md)
 
 #### View GitHub repository for this project
 [Back to Main Page](https://github.com/Draquix/reading-notes-javascript-102)
