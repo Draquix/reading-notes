@@ -12,3 +12,4 @@ on a large scale or income generating so I never stuck with it. Now though, that
 of C++, C#, VBASIC, Python, and JavaScript. I'm currently following the course curriculum for DeltaV code school on the track of software design
 
 [Back to Main Page](https://draquix.github.io/reading-notes-javascript-102/)
+
