@@ -13,3 +13,5 @@ the syntax git clone (URL) from github repository. The terminal will keep track 
 which will show new or edited files in red. To update the repository online with the new or edited files, first git add (file name) or git add * for all files
 to be included, then git commit -m "message about what and why you have changed in the repository" to stage the new repository.
 Finally git push origin master will upload the local version of the edited repository to become the 'head' or newest version on the cloud.
+
+[Back to Main Page](https://draquix.github.io/reading-notes-javascript-102/)
