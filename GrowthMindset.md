@@ -11,4 +11,4 @@
   2. If something isn't working the way I want it to, I should remember there are multiple ways to do some things and perhaps a different angle is in order.
   3. As long as I'm willing to make the effort towards success, I will become more prone to success as the mind is like a muscle that gets stronger with use.
   
-[Back to Main Page](https://github.com/Draquix/reading-notes-javascript-102)
+[Back to Main Page](https://draquix.github.io/reading-notes-javascript-102/)
