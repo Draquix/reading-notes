@@ -31,6 +31,8 @@ I'm currently following the course curriculum for DeltaV code school on the trac
   2. If something isn't working the way I want it to, I should remember there are multiple ways to do some things and perhaps a different angle is in order.
   3. As long as I'm willing to make the effort towards success, I will become more prone to success as the mind is like a muscle that gets stronger with use.
   
+  [About the Growth Mindset](/GrowthMindset)
+  
   #### A project I made as I followed Kahn Accademy's Intro to Javascript and Animations course:
   This is a work in progress and thus an incomplete game, there are a number of known bugs that I haven't gotten around to fixing yet, it was mainly a way to experiment with 
   JavaScript, HTML, and CSS using a game concept that was simple and familiar. I will port it to git.hub within a day or two. [The Hero's Journey](https://DarkturquoiseDarkmagentaGzip.danielrogahn.repl.co)
