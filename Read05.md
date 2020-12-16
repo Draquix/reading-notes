@@ -60,3 +60,5 @@ blue background would be quite illegible. Personally I love red
 or green on black as a throwback to old computers that 
 preexisted the GUI age when macintosh came out, followed by 
 windows.
+
+[Back to Main Page](https://draquix.github.io/reading-notes-javascript-102/)
