@@ -4,8 +4,9 @@
 * [About Me](/BioIntro.md)
 * [The Growth Mindset](/GrowthMindset.md)
 * [Markdown in a Nutshell](/MarkdownPage.md)
-* [Reading Lab 03 Notes](/Read03.md)
+* [Reading Lab 03 Notes ](/Read03.md)
 * [Reading Lab 04 Notes](/Read04.md)
+* [Reading Lab 05 Notes](/Read05.md)
 
 ### Lab 04 HTML page live address:
 [Lorem Ipsum HTML Lab](https://draquix.github.io/HTMLOne/)
