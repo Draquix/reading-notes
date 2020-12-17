@@ -10,6 +10,7 @@
 * [Reading Lab 06 Notes](/Read06.md)
 * [Reading Lab 06b Notes](/Read06b.md)
 * [Reading Lab 07 Notes](/Read07.md)
+* [Reading Lab 08 Notes](/Read08.md)
 
 ### Lab 04 HTML page live address:
 [Lorem Ipsum HTML Lab](https://draquix.github.io/HTMLOne/)
