@@ -8,27 +8,27 @@ followed by an equals sign and a value within quotemarks. A web browser reads th
 form, is mostly unformatted text. The tags and their attributes are brackete within greater than and less than signs. A tag often has an 
 opening tag followed by it's content and an ending tag that is the tag name preceeded by a forward slash. When the web browser reads the HTML 
 document, it follows the prescribed guidelines dictated by the HTML tags to format and structure its elements and displays that content with 
-the ommission of the HTML tags themselves. For example the element of a paragraph, has the opening tag, <p> and the ending tag </p>. Between 
-the two tags is the text of the paragraph. The web browser displays the text as a paragraph without showing the <p> tags.
+the ommission of the HTML tags themselves. For example the element of a paragraph, has the opening tag, p and the ending tag /p. Between 
+the two tags is the text of the paragraph. The web browser displays the text as a paragraph without showing the p tags.
 
 ### HTML Chapter 8
-There have been several versions of HTML since its conception. We currently use HTML which is denoted by the <!DOCTYPE html> tag as the first 
-thing within the document. Comments, which are statements that exist only within the HTML code, meant to communicate with other programmers who 
-may view the source, are bracketed within <!--   comment goes here --> tags. An element can contain an id attribute, which can be used by CSS 
+There have been several versions of HTML since its conception. We currently use HTML which is denoted by the !DOCTYPE html tag as the first 
+thing within the document. Comments, which are statements that exist only within the HTML code, meant to communicate with other programmers.
+An element can contain an id attribute, which can be used by CSS 
 or JavaScript to targeted and modified specifically. One id can apply only to one element. A class attribute is much like an id, but may be 
-common to multiple elements within a page. For instance if you have ten <p> tags on a page, one of them may be singled out by a CSS rule for 
-styling or a JavaScript program to have its content altered by having an id, whereas three or five or all of those <p> tags can share a class 
-to identify them. Some elements are used for grouping other elements within them together like <div>.
+common to multiple elements within a page. For instance if you have ten p tags on a page, one of them may be singled out by a CSS rule for 
+styling or a JavaScript program to have its content altered by having an id, whereas three or five or all of those p tags can share a class 
+to identify them. Some elements are used for grouping other elements within them together like div.
 Elements are either 'block' or 'in line'. Block elements are considered as if within a block, they have a border and a margin and unless 
 certain CSS styling rules are applied, they appear above and below each other. In line elements can be side by side, as if words next to each 
 other within a sentance. One type of block element is an iframe, which functions as a smaller window of content within the larger window of the 
 page.
 
 ### HTML Chapter 17
-In HTML5 some new grouping elements have been implemented to replace the previous over-use of the <div> tag. There are now specific elements 
+In HTML5 some new grouping elements have been implemented to replace the previous over-use of the div tag. There are now specific elements 
 for a header or footer or nav bar to reflect commonly used themes standard to how the WWW usually presents its pages. Sometimes, older browsers 
 do not treat properly newer block elements as they're meant to be displayed so certain CSS rules can be applied to help them understand. In 
-many ways, the newer semantic tags for grouping elements perform the same as the old method of using <div> for every grouping, but the newer 
+many ways, the newer semantic tags for grouping elements perform the same as the old method of using div for every grouping, but the newer 
 method helps organize the code in a way that helps developers and readers better understand the intent of the usage of the grouping.
 
 ### HTML Chapter 18
