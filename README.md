@@ -1,6 +1,7 @@
 # Daniel Rogahn's Reading Journal Homepage
+This page is an assigned collection of the notes I take on the readings for DeltaV Code School as I take their courses on software development.
 
-### Table of Contents
+### Code 102 Table of Contents
 * [About Me](/BioIntro.md)
 * [The Growth Mindset](/GrowthMindset.md)
 * [Markdown in a Nutshell](/MarkdownPage.md)
@@ -11,6 +12,9 @@
 * [Reading Lab 06b Notes](/Read06b.md)
 * [Reading Lab 07 Notes](/Read07.md)
 * [Reading Lab 08 Notes](/Read08.md)
+
+### Code 201 Table of Contents
+
 
 ### Lab 04 HTML page live address:
 [Lorem Ipsum HTML Lab](https://draquix.github.io/HTMLOne/)
