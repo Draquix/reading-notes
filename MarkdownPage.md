@@ -6,4 +6,4 @@ bold by placing two asterix's before and after the portion of text to be embolde
 after the text. Links can be added by putting the name of the link in square brackets and the url within parenthesis braces.
 
 
-[Back to Main Page](https://draquix.github.io/reading-notes-javascript-102/)
+[Back to Main Page](https://draquix.github.io/reading-notes/)
