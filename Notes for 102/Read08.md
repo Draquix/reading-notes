@@ -11,17 +11,19 @@ condition is or isn't met.
 
 ###### Table of Conditional Operators
 
-==  : is equal to  ,  === : strict equal to (used in if statements checking a boolean value)
-!=  : is not equal to ,  !=== : strict not equal to
-*note on equal to and not equal to, it will compare an integer and a string with a number in it and evaluate as true 
-ie: 42 == '42' is true, whereas 42 === '42' is false.
-> : is greater than  ,  < : is less than
->= : is greater than or equal to  ,  <= is less than or equal to
+* ==  : is equal to  ,  === : strict equal to (used in if statements checking a boolean value)
+* !=  : is not equal to ,  !=== : strict not equal to
+* *note on equal to and not equal to, it will compare an integer and a string with a number in it and evaluate as true 
+* ie: 42 == '42' is true, whereas 42 === '42' is false.
+* > : is greater than  ,  < : is less than
+* >= : is greater than or equal to  ,  <= is less than or equal to
 
 ###### Table of Logical Operators
 
 && : and   ,   || : or  ,  ! : not
-ie: while (x >= 3 && y < 5 || lifeMeaning === 42) {code to be run}
+
+    while (x >= 3 && y < 5 || lifeMeaning === 42) {code to be run}
+    
 That statement would read as while x is greater than or equal 
 to 3 and y is less than five or lifeMeaning is 42, keep 
 executing the block of code in the curly brackets until one or 
