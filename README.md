@@ -5,16 +5,16 @@ This page is an assigned collection of the notes I take on the readings for Delt
 * [About Me](/BioIntro.md)
 * [The Growth Mindset](/GrowthMindset.md)
 * [Markdown in a Nutshell](/MarkdownPage.md)
-* [Reading Lab 03 Notes ](/Read03.md)
-* [Reading Lab 04 Notes](/Read04.md)
-* [Reading Lab 05 Notes](/Read05.md)
-* [Reading Lab 06 Notes](/Read06.md)
-* [Reading Lab 06b Notes](/Read06b.md)
-* [Reading Lab 07 Notes](/Read07.md)
-* [Reading Lab 08 Notes](/Read08.md)
+* [Reading Lab 03 Notes ](/Notes for 102/Read03.md)
+* [Reading Lab 04 Notes](/Notes for 102/Read04.md)
+* [Reading Lab 05 Notes](/Notes for 102/Read05.md)
+* [Reading Lab 06 Notes](/Notes for 102/Read06.md)
+* [Reading Lab 06b Notes](/Notes for 102/Read06b.md)
+* [Reading Lab 07 Notes](/Notes for 102/Read07.md)
+* [Reading Lab 08 Notes](/Notes for 102/Read08.md)
 
 ### Code 201 Table of Contents
-
+* [Reading Lab 01 Notes](/Notes for 201/Read01.md)
 
 ### Lab 04 HTML page live address:
 [Lorem Ipsum HTML Lab](https://draquix.github.io/HTMLOne/)
