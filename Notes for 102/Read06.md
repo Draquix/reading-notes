@@ -13,18 +13,18 @@ is similar to C++ or Java. An object is a collection of keys and values. It runs
 functions much like other programming languages which is a grouped set of commands
 that are executed together, and can return a result to the rest of the program.
 
-JavaScript is added by the <script></script> tag. Commands can be nested between 
+JavaScript is added by the script tag. Commands can be nested between 
 the tags, but it is better to use an attribute src='filename.js' in the script 
 tag to link to external .js files. Below is a sample function:
 
-<p id="place-holder"> ... </p>
-<script>
-function replaceElipsesWithHello() {
-    var message = "Hello World";
-    document.getElementById('place-holder').innerHTML = message;
-}
-replaceElipsesWithHello();
-</script>
+    <p id="place-holder"> ... </p>
+    <script>
+        function replaceElipsesWithHello() {
+            var message = "Hello World";
+            document.getElementById('place-holder').innerHTML = message;
+        }
+    replaceElipsesWithHello();
+    </script>
 
 Function tells the interpreter we're making a new function. var initializes a 
 variable, and in this instance it's called message. The variable is assigned
