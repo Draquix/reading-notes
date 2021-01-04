@@ -44,12 +44,14 @@ then two parentheses within which parameters (more on those in
 a second) may or may not be set and the the curly brackets 
 within which the statements are grouped is the basic structure 
 of a function.
-function example(numOne,numTwo) {
-    var sum = numOne + numTwo;
-    document.write("The sum of the numbers is: "+sum);
-    var product = numOne * numTwo;
-    document.write("The product of the two numbers is: "+product);
-}
+
+    function example(numOne,numTwo) {
+        var sum = numOne + numTwo;
+        document.write("The sum of the numbers is: "+sum);
+        var product = numOne * numTwo;
+        document.write("The product of the two numbers is: "+product);
+    }
+    
 numOne and numTwo are parameters. They work much like variables 
 but their values can be passed in the statement calling the function. ie: example(3,4); would execute the function which 
 would in turn carry out it's instructions to add those numbers
