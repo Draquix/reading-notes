@@ -41,11 +41,11 @@ implemented using tags.
     
 In that example, I've illustrated how tags work, in that there's 
 usually an opening tag and content within it that follows certain
-rules, like the ''<h1>'' tag will make text very large, and is meant
+rules, like the '' <h1> '' tag will make text very large, and is meant
 for headlines that grab a user's attention quicker than smaller
 text. At the end of the text that is desired to be larger is the
-closing ''</h1>'' tag. The same characters preceeded by a slash tells
-the browser to stop applying that rule. Similarly the ''<p>'' tag is
+closing '' </h1> '' tag. The same characters preceeded by a slash tells
+the browser to stop applying that rule. Similarly the '' <p> '' tag is
 used to denote a paragraph. All of it is enclosed in the ''<body>'' tag
 which simply refers to the main portion of the page. The 
 ''<body>'' tag could be preceeded by a <header> and proceeded by a
