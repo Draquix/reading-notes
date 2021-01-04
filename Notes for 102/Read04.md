@@ -41,22 +41,22 @@ implemented using tags.
     
 In that example, I've illustrated how tags work, in that there's 
 usually an opening tag and content within it that follows certain
-rules, like the '' <h1> '' tag will make text very large, and is meant
+rules, like the h1 tag will make text very large, and is meant
 for headlines that grab a user's attention quicker than smaller
 text. At the end of the text that is desired to be larger is the
-closing '' </h1> '' tag. The same characters preceeded by a slash tells
-the browser to stop applying that rule. Similarly the '' <p> '' tag is
-used to denote a paragraph. All of it is enclosed in the ''<body>'' tag
+closing /h1 tag. The same characters preceeded by a slash tells
+the browser to stop applying that rule. Similarly the p tag is
+used to denote a paragraph. All of it is enclosed in the bodytag
 which simply refers to the main portion of the page. The 
-''<body>'' tag could be preceeded by a <header> and proceeded by a
-''<footer>'' and those sections may or may not follow other rules.
+body tag could be preceeded by a <header> and proceeded by a
+footer and those sections may or may not follow other rules.
 There are many more tags used in HTML, but these examples give 
 you the general idea of how they're structured and employed by
 using a hiearchy of content enclosed within beginning and 
 /ending tags.
 
 Back to revisions in HTML 5 as in Chapter 17 of our book, the 
-single multi-purpose ''<div>'' tag has been demoted a bit and more
+single multi-purpose div tag has been demoted a bit and more
 content specific tags have been introduced. The header, footer, 
 nav, article, and aside tags all deliver content in a way that
 div was used exclusively to do. They don't all act exactly the 
