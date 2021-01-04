@@ -28,4 +28,4 @@ longer satisfy the conditions of the while loop but the
 lifeMeaning variable became anything other than the strict 
 numerical value of 42, that could also stop the while loop. 
 
-[Back to Main Page](https://draquix.github.io/reading-notes-javascript-102/)
+[Back to Main Page](https://draquix.github.io/reading-notes/)

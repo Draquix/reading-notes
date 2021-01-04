@@ -65,4 +65,4 @@ stable way to navigate through a uniform site. It has also been
 revised in HTML5 that these sections can be included in an <a> 
 tag which anchors a link to another section, page, or website.
 
-[Back to Main Page](https://draquix.github.io/reading-notes-javascript-102/)
+[Back to Main Page](https://draquix.github.io/reading-notes/)

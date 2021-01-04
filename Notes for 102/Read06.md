@@ -35,4 +35,4 @@ that was looked for. In this case it's being set to the variable message. The
 function's statements are enclosed in curly braces. After the curly brace closing
 the function we actually call the function with it's name and parenthesis.
 
-[Back to Main Page](https://draquix.github.io/reading-notes-javascript-102/)
+[Back to Main Page](https://draquix.github.io/reading-notes/)

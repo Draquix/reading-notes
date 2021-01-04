@@ -70,4 +70,4 @@ circumstance in the order they should be carried out, and those
 statements are what typically call upon the functions I've 
 defined above the active portion of the script.
 
-[Back to Main Page](https://draquix.github.io/reading-notes-javascript-102/)
+[Back to Main Page](https://draquix.github.io/reading-notes/)

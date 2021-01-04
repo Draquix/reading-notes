@@ -47,5 +47,5 @@ Software directs the CPU to act in different ways. Multiple
 software programs can run at the same time. The operating system
 directs the multiple programs allowing them to share the same CPU.
 
-[Back to Main Page](https://draquix.github.io/reading-notes-javascript-102/)
+[Back to Main Page](https://draquix.github.io/reading-notes/)
 
