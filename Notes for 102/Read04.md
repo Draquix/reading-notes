@@ -1,7 +1,7 @@
 ## Reading Notes for HTML5
 
 One major edition in HTML5 is that there are multiple block 
-elements to replace the older multipurpos <div> tag. A key 
+elements to replace the older multipurpos div tag. A key 
 element of design is to create your page and display its content
 with a specific audience in mind. One must also consider the 
 purpose your website is trying to fulfill. The textbook 
