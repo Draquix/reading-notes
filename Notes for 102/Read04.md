@@ -32,11 +32,13 @@ direction.
 HTML is a way to display text and images with certain formatting,
 and through the use of JavaScript, be interactive. HTML is 
 implemented using tags.
+    
     <body>
         <h1> This Text Would Be Really Big </h1>
         <p> This is standard size using a P tag that stands for
         paragraph </p>
     </body>
+    
 In that example, I've illustrated how tags work, in that there's 
 usually an opening tag and content within it that follows certain
 rules, like the ''<h1>'' tag will make text very large, and is meant
