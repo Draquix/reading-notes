@@ -13,12 +13,14 @@ selector tells **what** the rule is applying to. The declaration
 contains properties and values. The property may be *height*, or
 *border*, or *position*.
 Example of a CSS rule:
+
     main {
         width:300px;
         color:red;
         background-color: black;
     }
-In this example, everything within the <main> tag will have a 
+    
+In this example, everything within the main tag will have a 
 black background with red text and the block defining the size
 and layout of the main element will be only 300 pixels wide. An 
 average screen length is 6-700 pixels, so our element would be
@@ -28,16 +30,16 @@ curly braces ( {} ), within those braces are the declarations.
 The property is written to the left followed by a colon, and then
 the value of that property is typed followed by a semicolon.
 By using a <link> tag, an external file.css file can store all
-the CSS, or you can do it right in the HTML with a <style>
-</style> set of tags- however this is not recommended practice.
+the CSS, or you can do it right in the HTML with a style
+/style set of tags- however this is not recommended practice.
 There are several types of selectors. If you wanted to select a
-<p> tag, but only the <p> tags inside an <article> your selector 
+p tag, but only the p tags inside an article your selector 
 would be article p {}... if an id attribute is set in the HTML 
-like <p id="this-one"> or class attribute like, 
-<p class="that-one"> the selector could be very specific to that 
+like p id="this-one" or class attribute like, 
+p class="that-one" the selector could be very specific to that 
 one element by .this-one {} or #that-one {} respectively.
 CSS will apply first to the broadest scope set, like body {} and 
-then if there's a <h2> within that body that gets called by its
+then if there's a h2 within that body that gets called by its
 selector and has a different rule that narrower definition will
 overwrite the rules set by the broader selector's rule.
 
@@ -48,7 +50,7 @@ go beyond the basic predefined palet we can also use RGB
 followed by 3 numbers between 0 and 255. It stands for red,
 green, blue and works much like mixing paint where the higher
 the numerical value the more of that color paint we're mixing in.
-As black is the absence of light(thus color), the RGB for black 
+As black is the absence of light (thus color), the RGB for black 
 is 3 zeros. Similarly since white light is the entire spectrum
 combined, its RGB is 255,255,255. Aside from direct names or RGB,
 we can define colors by a hex code which is delineated by a 
