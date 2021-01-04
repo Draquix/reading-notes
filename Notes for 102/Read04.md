@@ -65,7 +65,7 @@ rules before being altered by CSS, but they serve the same
 function of delivering content in an attractive layout form, and 
 also in grouping together like items, and providing a constant, 
 stable way to navigate through a uniform site. It has also been
-revised in HTML5 that these sections can be included in an <a> 
+revised in HTML5 that these sections can be included in an a 
 tag which anchors a link to another section, page, or website.
 
 [Back to Main Page](https://draquix.github.io/reading-notes/)
