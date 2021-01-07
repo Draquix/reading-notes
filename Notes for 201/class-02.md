@@ -33,3 +33,6 @@ Variables have a limited scope, when declared within an object they don't exist 
 interpreter stops executing the code and gives a message that identifies the factor that is wrong. Debugging is done by trying to understand
 what generated the error message, and can be aided by a console in the web browser that can manipulate the code or have status messages
 logged into it. 
+
+[Back to Main Page](https://draquix.github.io/reading-notes/)
+

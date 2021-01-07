@@ -15,6 +15,7 @@ This page is an assigned collection of the notes I take on the readings for Delt
 
 ### Code 201 Table of Contents
 * [Reading Lab 01 Notes](/Notes for 201/class-01.md)
+* [Reading Lab 02 Notes](/Notes for 201/class-02.md)
 
 ### Lab 04 HTML page live address:
 [Lorem Ipsum HTML Lab](https://draquix.github.io/HTMLOne/)
