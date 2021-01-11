@@ -42,3 +42,4 @@ Above removes the fourth li from the page.
 
 getAttribute() will get an attribute such as class and the variable that gets it
 can be manipulated.
+[Back to Table of Contents](../README.md)
