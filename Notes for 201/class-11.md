@@ -25,3 +25,5 @@ page title, url, headings, text, link text, image alt text, and page description
 .  www.google.com/analytics has a service to sign up for that tracks traffic.
 It is important to know what visitors are looking at, where they are coming 
 from.
+
+[Back to Table of Contents](../README.md)
