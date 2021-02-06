@@ -27,8 +27,11 @@ This page is an assigned collection of the notes I take on the readings for Delt
 * [Reading Lab 14a Notes](/Notes for 201/class-14a.md)
 * [Reading Lab 14b Notes](/Notes for 201/class-14b.md)
 
-## Code 301 - Advanced Software Development
+## Code 301 - Intermediate Software Development
 * [Reading Lab 01 Notes](/Notes for 301/class-01.md)
+
+## Code 401 - Advanced Software Development
+    *Class not begun yet*
 
 ### Lab 04 HTML page live address:
 [Lorem Ipsum HTML Lab](https://draquix.github.io/HTMLOne/)
