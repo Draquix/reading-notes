@@ -21,7 +21,7 @@ A parent element containing all floats will have no height, and it affects backg
 An empty div with clear after floated items/containers can prevent content from overlapping other elements.
 Floats create alternate flows. Your code needs to account for normal, right, and left.
 
-
 [SMACSS Handbook](smacss.com)
 [An Article on Using Grids](https://css-tricks.com/dont-overthink-it-grids/)
 
+[Back to Table of Contents](../README.md)
