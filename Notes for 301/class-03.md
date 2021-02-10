@@ -12,12 +12,16 @@ A template is standard HTML, but extra tags are put in that are used as placehol
 Mustache is a way to put extra tags in templates that the program replaces with data or removes. It is an external library: mustache.js.
 It works by using double curly braces to mark a point of insertion.
 With the library linked, the syntax is to use
+   
     res.render('nameOfHTMLfile', {"key": "valuePair"})
     //or declare a var/const and assign it JSON data
     const dataBit = {"hornedThing": "unicorn"};
     res.render('index', dataBit)
+
 in the HTML: 
+    
     <h2>This thing is named {{hornedThing}}</h2>
+
 and the result is the header2 will say 'This thing is named unicorn'.
 
 #### Flexbox
