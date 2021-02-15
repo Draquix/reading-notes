@@ -32,6 +32,8 @@ This page is an assigned collection of the notes I take on the readings for Delt
 * [Reading Lab 02 Notes](/Notes for 301/class-02.md)
 * [Reading Lab 03 Notes](/Notes for 301/class-03.md)
 * [Reading Lab 04 Notes](/Notes for 301/class-04.md)
+* [Reading Lab 05 Notes](/Notes for 301/class-05.md)
+* [Reading Lab 06 Notes](/Notes for 301/class-06.md)
 
 ## Code 401 - Advanced Software Development
     *Class not begun yet*
