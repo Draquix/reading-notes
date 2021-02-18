@@ -21,3 +21,5 @@ LIKE  will compare two strings with case insensitivity
 NOT LIKE will compare two strings and return those without the strings
 % can be used to match a sequence of zero or more characters with LIKE or NOT LIKE :  col_name LIKE "%AT%" matches "AT", "ATTIC", "CAT", or "BATS".
 _ can be used to match any single character in a string : col_name LIKE "DA_" matches "DAN" but not "DA".
+
+[Back to Table of Contents](../README.md)
