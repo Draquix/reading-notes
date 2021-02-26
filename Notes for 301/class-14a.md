@@ -14,3 +14,5 @@ A delete anomaly is when removal of data removes other data as well.
 First Normal Form- The information is stored in a table with no repeating groups of columns.
 A table of the Second Normal Form is organized based of its primary key.
 The Third Normal Form is for a table to be organized according to the Second but not dependent on the primary key.
+
+[Back to Table of Contents](../README.md)
