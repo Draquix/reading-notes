@@ -42,7 +42,7 @@ This page is an assigned collection of the notes I take on the readings for Delt
 * [Reading Lab 15 Notes](/Notes for 301/class-15.md)
 
 ## Code 401 - Advanced Software Development
-    *Class not begun yet*
+* [Reading Lab 01 Notes](/Notes for 401/class-01.md)
 
 ### Lab 04 HTML page live address:
 [Lorem Ipsum HTML Lab](https://draquix.github.io/HTMLOne/)
