@@ -44,14 +44,9 @@ This page is an assigned collection of the notes I take on the readings for Delt
 ## Code 401 - Advanced Software Development
 * [Reading Lab 01 Notes](/Notes for 401/class-01.md)
 
-### Lab 04 HTML page live address:
-[Lorem Ipsum HTML Lab](https://draquix.github.io/HTMLOne/)
-
 #### View GitHub repository for this project
 [Back to Main Page](https://github.com/Draquix/reading-notes-javascript-102)
 
-#### A personal project I started in order to utilize the lessons I was learning on Kahn Academy about JavaScript, HTML, and CSS: (hosted on Repl.it due to an as yet unresolved error in porting the code to GitHub)::
-[A Hero's Journey(game)](https://darkturquoisedarkmagentagzip.danielrogahn.repl.co/)
-It's a 1980's style text rpg using year 2020 technologies.
 
-###### Last Updated 12/15/2020
+
+###### Last Updated 03/19/2021
